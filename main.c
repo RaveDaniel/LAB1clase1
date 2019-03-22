@@ -8,6 +8,7 @@ int main()
     int numeroMinimo;
     int primerIngreso;
     numeroMaximo=0;
+
     primerIngreso = 0;
 
     while(numero != -1)
